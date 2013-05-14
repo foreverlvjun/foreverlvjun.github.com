@@ -3,3 +3,5 @@ pygments: true
 markdown: rdiscount
 include: ['_images']
 
+url: http://localhost:4000
+
