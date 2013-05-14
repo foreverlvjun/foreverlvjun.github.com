@@ -1,4 +1,5 @@
 name: TEX
 pygments: true
 markdown: rdiscount
-img_url: http://foreverlvjun.github.com/_images
+include: ['_images']
+
