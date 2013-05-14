@@ -6,15 +6,12 @@ categories: technical
 ---
 
 ##创建一个新的库
-
     touch README.md
     git init
     git add README.md
     git commit -m "first commit"
     git remote add origin git@github.com:foreverlvjun/lvjun.github.com.git
     git push -u origin master
-    
 ##推送一个已有的库
-    
     git remote add origin git@github.com:foreverlvjun/lvjun.github.com.git
     git push -u origin master
