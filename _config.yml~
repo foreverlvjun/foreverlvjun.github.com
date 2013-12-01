@@ -1,5 +1,5 @@
 name: TEX
-pygments: true
+pygments: false
 markdown: rdiscount
-include: ['_images']
+include: ['images']
 
