@@ -2,4 +2,7 @@ name: TEX
 pygments: true
 markdown: rdiscount
 include: ['images']
-
+comments:
+provider: disqus
+disqus:
+short_name: foreverlvjun.disqus.com
